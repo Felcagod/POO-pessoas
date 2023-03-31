@@ -46,7 +46,7 @@ def criar_pessoa():
         print("\nOque voce quer fazer?")
         print("1. Ganhar peso")
         print("2. Perder peso")
-        print("3. Ganhar peso")
+        print("3. Ficar mais velho")
         print("4. Ficar mais alto")
         print("5. Mudar de nome")
         print("0. Sair")
